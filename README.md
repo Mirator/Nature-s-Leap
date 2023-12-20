@@ -1,2 +1,2 @@
-# Nature-s-Leap
+# Nature's Leap
 Private learning game
